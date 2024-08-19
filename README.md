@@ -7,7 +7,7 @@ Welcome to Simple Python Projects! This repository contains a collection of begi
 
 1. **Project 1**: Number guessing game
 2. **Project 2**: Word guessing game
-3. **Project 3**: -
+3. **Project 3**: Hangman game
    ...
 
 ## 🛠️ Getting Started
