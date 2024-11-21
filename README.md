@@ -15,7 +15,7 @@ Welcome to Simple Python Projects! This repository contains a collection of begi
 ### Prerequisites
 
 - Python 3.7 or higher installed on your machine
-- Basic understanding of Python syntax
+- Basic understanding of Python syntax and their concepts
 
 ### Installation
 
