@@ -40,7 +40,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
 
 ---
 
