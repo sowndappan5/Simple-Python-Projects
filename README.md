@@ -1,4 +1,4 @@
-# Simple Python program Projects
+# Simple Python Projects
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python Logo" width="100"/>
 Welcome to Simple Python Projects! This repository contains a collection of beginner-friendly Python projects to help you learn and practice programming.
